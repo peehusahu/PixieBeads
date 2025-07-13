@@ -115,7 +115,6 @@ a{
 .productName{
     background-color: rgb(239, 206, 212);
     text-align: center;
-    margin-bottom : 5px;
     color : #d63384;
     background-color: rgb(239, 206, 212);
     font-size: 25px; 
@@ -170,7 +169,7 @@ a{
     }
     a{
         font-size : 5px;
-        margin-left : auto;
+        margin-left : 10px;
     }
     .logo{
          font-size : 18px;
@@ -190,20 +189,12 @@ a{
     font-size: 10px;
    }
      .ShopNow{
-    text-align: center;
-    color : rgb(243, 216, 220);
-    background-color: #d63384 !important;
-    font-family: 'Times New Roman', serif;
     font-size: 20px;
-    border-radius: 10%;
-    font-weight :lighter;
-    cursor: pointer;
-    margin: auto;
-    display: inline-block;
      }
 
      .favouriteHeading{
             font-size : 22px;
+         margin-bottom: 15px;
         }
         
     .box{
@@ -214,9 +205,10 @@ a{
         }
 
     .box-img{
-  margin-bottom: 15px;
+      margin-bottom: 15px;
     }
     .productName{
+        margin-top : 0px;
         font-size : 10px ;
     }
     .Price{
