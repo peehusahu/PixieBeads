@@ -169,7 +169,7 @@ a{
         font-size : 16px;
     }
     a{
-        font-size : 16px;
+        font-size : 8px;
         margin-left : auto;
     }
     .logo{
@@ -211,4 +211,7 @@ a{
     width : 30%;
     border-radius:10% ;
         }
+    .footerText{
+        font-size : 10px;
+    }
         }
