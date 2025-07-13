@@ -162,14 +162,14 @@ a{
     }
     .OrderButton{
         font-size : 16px;
-        margin-left : 40px;
+        margin-left : 35px;
     }
     .navbar{
         height : 20px;
         font-size : 16px;
     }
     a{
-        font-size : 8px;
+        font-size : 5px;
         margin-left : auto;
     }
     .logo{
@@ -178,15 +178,16 @@ a{
     }
     .heading{
     margin-top : 40px;
+    margin-left : 10px;
     text-align: center;
     color : #d63384;
     font-size: 30px;
    }
     .subheading{
-    margin : auto;
+    margin-left : 0px;
     text-align: center;
     color : #d63384;
-    font-size: 22px;
+    font-size: 10px;
    }
      .ShopNow{
     text-align: center;
@@ -211,7 +212,16 @@ a{
     width : 30%;
     border-radius:10% ;
         }
+    .productName{
+        font-size : 10px ;
+    }
+    .Price{
+        font-size : 10px ;
+    }
+    .OrderButton{
+        font-size : 10px ;
+    }
     .footerText{
-        font-size : 10px;
+        font-size : 5px;
     }
         }
