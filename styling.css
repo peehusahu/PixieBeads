@@ -9,6 +9,9 @@
     height : 60px;
     background-color : #903655;
     color : rgb(239, 203, 210);
+    flex-wrap :wrap;
+    justify-content : center;
+    padding : 10px;
 }
 .logo{
     text-align: left;
@@ -146,3 +149,19 @@ a{
     font-size : 25px;
     font-family : 'Times New Roman', Times, serif;
 }
+@media(max-width : 480px){
+    .productName{
+        font-size : 18px;
+}
+    .Price{
+        font-size : 16px;
+    }
+    .OrderButton{
+        font-size : 16px;
+    }
+    .navbar{
+        font-size : 16px;
+    }
+    a{
+        font-size : 16px;
+    }
