@@ -212,6 +212,10 @@ a{
     width : 30%;
     border-radius:10% ;
         }
+
+    .box-img{
+  margin-bottom: 15px;
+    }
     .productName{
         font-size : 10px ;
     }
@@ -222,6 +226,6 @@ a{
         font-size : 10px ;
     }
     .footerText{
-        font-size : 5px;
+        font-size : 8px;
     }
         }
