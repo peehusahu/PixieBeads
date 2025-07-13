@@ -85,6 +85,7 @@ a{
           /*Boxes*/
 .ProductContainer{
     display : flex;
+    flex-wrap : wrap;
     background-color: rgb(239, 206, 212);
     justify-content: space-evenly;
 }
